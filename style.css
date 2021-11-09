@@ -1,0 +1,83 @@
+/* STYLE SECTIONING TAGS */
+#first{background-color:#e5f8ea;}
+
+#second{background-color: #faf0f1;}
+
+#box{
+  display: flex;
+  align-items: center;
+  justify-content:center;
+}
+
+.projects{
+  border: 5px inset #66ff47;
+  padding: 7px;
+  margin: 15px;
+  font-size: 20px;
+}
+/* STYLE TEXT */
+#index{
+  text-align: center;
+  margin-bottom: 60px;
+  font-family: mate sc; 
+  }
+
+main{
+  text-align:center; 
+  margin-top: 0%;
+  margin-bottom: 0%;
+  margin-right: 20%;
+  margin-left: 8%;
+  font-size: 18px;
+  border:5px ridge #f72a56;
+  padding: 10px;
+  font-family: eczar;
+}
+
+#head{
+  font-family:jura;
+}
+
+h3{
+  color:#0300ff;
+  font-family: poppins;
+}
+
+/* STYLE IMAGES */
+#profile{
+  width: 250px; 
+  border-radius:15%;
+ margin-left: 100px;
+}
+
+.code{
+  width: 600px;
+}
+
+/* STYLE NAV BAR */
+nav{
+  text-align: center;
+  font-family: orelega one;
+}
+ul{
+  list-style-type: none;
+  background-color: #680000;
+  overflow:hidden;
+  padding:10px;
+
+}
+
+li{
+  display:inline;
+}
+
+li a{
+  text-decoration: none;
+  color: #c8c8c8;
+  font-size: 25px;
+  padding: 30px;
+}
+
+li a:hover{
+  background-color: #b70000;
+}
